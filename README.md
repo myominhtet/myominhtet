@@ -7,8 +7,8 @@ Here is my learning resource link: http://neuralnetworksanddeeplearning.com/ and
 Kaggle Profile: https://www.kaggle.com/myominhtet
 
 My projects
-Paddy Leaf Nitrogen Defficiency classification
-Object recognition and tracking using deep_sort and yolo
+Paddy Leaf Nitrogen Defficiency classification                      https://github.com/myominhtet/Nitrogen-deficiency-classification
+Object recognition and tracking using deep_sort and yolo            On the way
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myominhtet&theme=dark&show_icons=true)
