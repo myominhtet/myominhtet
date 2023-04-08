@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**myominhtet/myominhtet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am myo min htet and self learner at DL(Computer Vision). I've been learning DL for a year and I am a kaggle notebook expert.
 
-Here are some ideas to get you started:
+Here is my learning resource link: http://neuralnetworksanddeeplearning.com/ and I learn a lot of things from kaggle competition and notebooks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Kaggle Profile: https://www.kaggle.com/myominhtet
+
+My projects
+Paddy Leaf Nitrogen Defficiency classification
+Object recognition and tracking using deep_sort and yolo
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myominhtet&theme=dark&show_icons=true)
