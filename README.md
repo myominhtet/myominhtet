@@ -6,6 +6,7 @@ Here is my learning resource link: http://neuralnetworksanddeeplearning.com/ and
 
 Kaggle Profile: https://www.kaggle.com/myominhtet
 
+
 My projects
 
 Paddy Leaf Nitrogen Defficiency classification                      https://github.com/myominhtet/Nitrogen-deficiency-classification
@@ -13,11 +14,10 @@ Paddy Leaf Nitrogen Defficiency classification                      https://gith
 Object recognition and tracking using deep_sort and yolo            https://github.com/myominhtet/person_tracking_and_face_detection    
 
 
+
 TOOLS
 
-[![NumPy](https://img.shields.io/badge/NumPy-1.21.0-blue.svg)](https://github.com/numpy/numpy)
-
-[![Pandas](https://img.shields.io/badge/Pandas-1.3.5-blue.svg)](https://github.com/pandas-dev/pandas)
+[![NumPy](https://img.shields.io/badge/NumPy-1.21.0-blue.svg)](https://github.com/numpy/numpy)[![Pandas](https://img.shields.io/badge/Pandas-1.3.5-blue.svg)](https://github.com/pandas-dev/pandas)
 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5.1-blue.svg)](https://github.com/matplotlib/matplotlib)
 
