@@ -10,7 +10,11 @@ My projects
 
 Paddy Leaf Nitrogen Defficiency classification                      https://github.com/myominhtet/Nitrogen-deficiency-classification
 
-Object recognition and tracking using deep_sort and yolo            https://github.com/myominhtet/person_tracking_and_face_detection         
+Object recognition and tracking using deep_sort and yolo            https://github.com/myominhtet/person_tracking_and_face_detection    
+
+
+TOOLS
+[![NumPy](https://img.shields.io/badge/NumPy-1.21.0-blue.svg)](https://github.com/numpy/numpy)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myominhtet&theme=dark&show_icons=true)
