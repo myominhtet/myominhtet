@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am myo min htet and self learner at DL(Computer Vision). I've been learning DL almost two years and I am a kaggle notebook expert.
+I am myo min htet and self learner at DL(Computer Vision and NLP). I've been learning DL almost two years and I am a kaggle notebook expert.
 
 Here is my learning resource link: http://neuralnetworksanddeeplearning.com/ and I learn a lot of things from kaggle competition and notebooks.
 
