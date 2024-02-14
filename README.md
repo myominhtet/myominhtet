@@ -2,7 +2,9 @@
 
 I am myo min htet and self learner at DL(Computer Vision and NLP). I've been learning DL almost two years and I am a kaggle notebook expert and bronze medal winner of kaggle llm science exam.
 
-I've done a lot of projects like person tracking and face detection, nitrogen deficiency classification, building bigram language model with self attention mechanism from scratch.
+I've done a lot of projects like person tracking and face detection, nitrogen deficiency classification, building bigram language model with self attention mechanism from scratch and training ML models on docker.
+
+I've also experience in AWS SadgeMaker, EC2, S3
 
 
 Kaggle Profile: https://www.kaggle.com/myominhtet
