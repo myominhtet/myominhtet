@@ -1,22 +1,14 @@
 ### Hi there 👋
 
-I am myo min htet and self learner at DL(Computer Vision and NLP). I've been learning DL almost two years and I am a kaggle notebook expert.
+I am myo min htet and self learner at DL(Computer Vision and NLP). I've been learning DL almost two years and I am a kaggle notebook expert and bronze medal winner of kaggle llm science exam.
 
-Here is my learning resource link: http://neuralnetworksanddeeplearning.com/ and I learn a lot of things from kaggle competition and notebooks.
+I've done a lot of projects like person tracking and face detection, nitrogen deficiency classification, building bigram language model with self attention mechanism from scratch.
+
 
 Kaggle Profile: https://www.kaggle.com/myominhtet
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-My projects
-
-Paddy Leaf Nitrogen Defficiency classification                      https://github.com/myominhtet/Nitrogen-deficiency-classification
-
-Object recognition and tracking using deep_sort and yolo            https://github.com/myominhtet/person_tracking_and_face_detection    
-
-ICR---Identifying-Age-Related-Conditions(top 15%)                            https://github.com/myominhtet/ICR---Identifying-Age-Related-Conditions
-
-_______________________________________________________________________________________________________________________________________________________________________
 
 TOOLS
 
